@@ -6,7 +6,7 @@ Weather App is designed to collect the weather conditions for the day using eith
 #
 2) Installation
 #
-- API key from https://openweathermap.org/ap.
+- API key from https://openweathermap.org/ap
 - Python 3
 #
 3) Usage
